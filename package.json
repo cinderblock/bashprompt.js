@@ -20,7 +20,7 @@
     "homepage": "https://github.com/repejota/bashprompt.js",
     "analyze": false,
     "dependencies": {
-        "nomnom": "*",
+        "nomnom": "*"
     },
     "devDependencies": {
         "mocha": "*",
