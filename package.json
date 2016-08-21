@@ -21,7 +21,6 @@
     "analyze": false,
     "dependencies": {
         "nomnom": "*",
-        "execSync": "*"
     },
     "devDependencies": {
         "mocha": "*",

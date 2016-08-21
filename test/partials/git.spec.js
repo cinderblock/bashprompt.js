@@ -26,7 +26,6 @@
 //
 
 var assert = require('assert');
-var childsync = require('execSync');
 
 describe('bashprompt git partial Spec', function () {
 
